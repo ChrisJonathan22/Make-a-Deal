@@ -1,0 +1,45 @@
+
+
+:root {
+    --base: #ffc600;
+    --spacing: 10px;
+    --blur: 10px;
+  }
+
+  html{
+     /* background-color: var(--base); */
+     background-color: whitesmoke;
+  }
+
+  #title h2 {
+      text-align: center;
+      font-size: 30px;
+      font-family: Georgia;
+  }
+
+  #para p {
+      text-align: center;
+      font-weight: bold;
+  }
+
+  #link {
+      text-align: center;
+      margin-top: 30px;
+  }
+
+  #vid {
+      text-align: center;
+  }
+
+  #list {
+      margin-left: 260px;
+  }
+
+  #list li {
+      display: inline-block;
+      margin-left: 50px;
+      margin-right: 50px;
+      padding-top: 150px;
+  }
+
+
